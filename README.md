@@ -1,7 +1,7 @@
 # Maze generator
 
 ## What's that?
-Stack based backtracking algorithm for maze generation
+Depth-first search backtracking algorithm for maze generation implemented with a stack
 
 ## Preview
 
